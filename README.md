@@ -2,6 +2,10 @@
 
 Interactive pathfinding visualizer built with C++20 and SDL2. Visualizes BFS, DFS, Dijkstra and A* on a grid with terrain and wall editing.
 
+## Preview
+
+![Project Screenshot](assets/demo.png)
+
 ## Table of Contents
 - [Quick Start](#quick-start)
 - [Features](#features)
